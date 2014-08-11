@@ -31,4 +31,4 @@ Dynamic Type JQuery plugin based off Material Design
 			text.css('margin-top', (maxHeight - textHeight)/2 + 'px');
 		});
 	}
-})(jQuery);```
+})(jQuery);
